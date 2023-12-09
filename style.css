@@ -1,0 +1,36 @@
+.heading h3{
+    display:inline;
+    font-weight: bolder;
+
+}
+.heading{
+    width:100%;
+    text-align:left
+}
+.heading button{
+    float:right;
+    border:1px solid white;
+}
+body{
+    background-position:center;
+}
+canvas{
+    border-radius:10px;
+    margin-top:30px;
+    box-shadow:10px 10px 10px red;
+}
+.copy_right_footer{
+    background-color:rgb(132, 186, 186);
+    color:black;
+    position:fixed;
+    bottom:0; 
+    width:100%;
+    text-align:center;
+    line-height:center;
+    line-height:3;
+    font-weight:bolder;
+}
+p{
+    font-weight:bolder;
+    color:black;
+}
